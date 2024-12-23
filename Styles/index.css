@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: auto;}
+
+.khung{
+	width: 960px;
+	height: 111px;
+}
+
+nav a{
+	padding: 8px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+a {
+	font-family: Arial;
+}
+
+nav{
+	padding-left: 10px;
+	padding-top: 10px;
+	float: left;
+	font-size: 14px;
+}
+.phai{
+	float: right;
+	padding-top: 10px;
+	color: grey;
+}
